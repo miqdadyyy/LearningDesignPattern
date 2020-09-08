@@ -4,7 +4,10 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello you little Shit");
+        // Factory Design Pattern
 //        com.miqdadyyy.factory.Demo.start();
-        com.miqdadyyy.singleton.Demo.start();
+
+        // Singleton Design Pattern
+//        com.miqdadyyy.singleton.Demo.start();
     }
 }
