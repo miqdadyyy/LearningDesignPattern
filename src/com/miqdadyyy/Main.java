@@ -11,6 +11,9 @@ public class Main {
 //        com.miqdadyyy.singleton.Demo.start();
 
         // Builder Design Pattern
-        com.miqdadyyy.builder.Demo.start();
+//        com.miqdadyyy.builder.Demo.start();
+
+        // Prototype Design Pattern
+//        com.miqdadyyy.prototype.Demo.start();
     }
 }
