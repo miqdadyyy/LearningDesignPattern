@@ -9,5 +9,8 @@ public class Main {
 
         // Singleton Design Pattern
 //        com.miqdadyyy.singleton.Demo.start();
+
+        // Builder Design Pattern
+        com.miqdadyyy.builder.Demo.start();
     }
 }
