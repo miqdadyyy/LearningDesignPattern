@@ -15,5 +15,8 @@ public class Main {
 
         // Prototype Design Pattern
 //        com.miqdadyyy.prototype.Demo.start();
+
+        // Adapter Design Pattern
+//        com.miqdadyyy.adapter.Demo.start();
     }
 }
