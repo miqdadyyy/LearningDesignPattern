@@ -18,5 +18,8 @@ public class Main {
 
         // Adapter Design Pattern
 //        com.miqdadyyy.adapter.Demo.start();
+
+        // Bridge Design Pattern
+//        com.miqdadyyy.bridge.Demo.start();
     }
 }
