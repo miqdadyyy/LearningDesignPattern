@@ -1,3 +1,5 @@
+package com.miqdadyyy.facade;
+
 public class ShapeMaker {
    private Shape circle;
    private Shape rectangle;
