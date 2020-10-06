@@ -21,5 +21,8 @@ public class Main {
 
         // Bridge Design Pattern
 //        com.miqdadyyy.bridge.Demo.start();
+
+        // Composite Design Pattern
+        com.miqdadyyy.composite.CompositeDemo.start();
     }
 }
