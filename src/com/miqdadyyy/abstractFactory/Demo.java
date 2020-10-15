@@ -4,9 +4,9 @@ import com.miqdadyyy.abstractFactory.constants.FactoryConstants;
 import com.miqdadyyy.abstractFactory.factories.AbstractFactory;
 import com.miqdadyyy.abstractFactory.factories.FactoryProducer;
 
-public class AbstractFactoryPatternDemo {
+public class Demo {
 
-    public static void main(String[] args) {
+    public static void start() {
 
         //Step-1 : Get all Factories.
         AbstractFactory developersFactory = FactoryProducer.getFactory(FactoryConstants.DEVELOPER);

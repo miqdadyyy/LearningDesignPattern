@@ -7,6 +7,9 @@ public class Main {
         // Factory Design Pattern
 //        com.miqdadyyy.factory.Demo.start();
 
+        //Abstract Factory Design pattern
+     // com.miqdadyyy.abstractFactory.Demo.start();
+
         // Singleton Design Pattern
 //        com.miqdadyyy.singleton.Demo.start();
 
