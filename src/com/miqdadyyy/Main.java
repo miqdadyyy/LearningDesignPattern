@@ -26,6 +26,9 @@ public class Main {
 //        com.miqdadyyy.bridge.Demo.start();
 
         // Composite Design Pattern
-        com.miqdadyyy.composite.CompositeDemo.start();
+        //com.miqdadyyy.composite.CompositeDemo.start();
+
+        //Filter Design Pattern
+        //com.miqdadyyy.filter.Demo.start();
     }
 }
